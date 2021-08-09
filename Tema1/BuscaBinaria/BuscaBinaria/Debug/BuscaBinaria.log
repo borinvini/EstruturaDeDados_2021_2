@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+c:\users\vinicius borin\desktop\buscabinaria\buscabinaria\origem.cpp(14): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\vinicius borin\desktop\buscabinaria\buscabinaria\origem.cpp(13): warning C4101: 'i': variável local não referenciada
+  BuscaBinaria.vcxproj -> C:\Users\Vinicius Borin\Desktop\BuscaBinaria\Debug\BuscaBinaria.exe

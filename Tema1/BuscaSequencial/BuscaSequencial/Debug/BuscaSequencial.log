@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+c:\users\vinicius borin\google drive\rota_estruturadedados\aulas práticas\pratica1\buscasequencial\buscasequencial\origem.cpp(13): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\vinicius borin\google drive\rota_estruturadedados\aulas práticas\pratica1\buscasequencial\buscasequencial\origem.cpp(12): warning C4101: 'i': variável local não referenciada
+  BuscaSequencial.vcxproj -> C:\Users\Vinicius Borin\Google Drive\Rota_EstruturaDeDados\Aulas Práticas\Pratica1\BuscaSequencial\Debug\BuscaSequencial.exe
