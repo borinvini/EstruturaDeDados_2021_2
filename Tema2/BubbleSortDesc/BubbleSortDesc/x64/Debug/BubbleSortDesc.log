@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+c:\users\92006531\desktop\pratica1\bubblesortdesc\bubblesortdesc\origem.cpp(12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  BubbleSortDesc.vcxproj -> C:\Users\92006531\Desktop\Pratica1\BubbleSortDesc\x64\Debug\BubbleSortDesc.exe
+  BubbleSortDesc.vcxproj -> C:\Users\92006531\Desktop\Pratica1\BubbleSortDesc\x64\Debug\BubbleSortDesc.pdb (Partial PDB)

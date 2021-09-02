@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+D:\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSortCresc\BubbleSortCresc\Origem.cpp(12,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  BubbleSortCresc.vcxproj -> D:\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema2\BubbleSortCresc\x64\Debug\BubbleSortCresc.exe
