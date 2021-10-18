@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+c:\users\vinicius borin\google drive\rota_estruturadedados\aulas práticas\pratica1\quicksortcresc\quicksortcresc\origem.cpp(14): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  QuickSortCresc.vcxproj -> C:\Users\Vinicius Borin\Google Drive\Rota_EstruturaDeDados\Aulas Práticas\Pratica1\QuickSortCresc\Debug\QuickSortCresc.exe
