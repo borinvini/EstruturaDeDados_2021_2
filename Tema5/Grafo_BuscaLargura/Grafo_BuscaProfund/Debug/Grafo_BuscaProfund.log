@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Grafo_BuscaProfund.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Grafo_BuscaProfund.vcxproj -> D:\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema5\Grafo_BuscaLargura\Debug\Grafo_BuscaLargura.exe
