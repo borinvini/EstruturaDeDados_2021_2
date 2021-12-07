@@ -1,0 +1,8 @@
+﻿  Origem.cpp
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema3\fila_comlista\fila_comlista\origem.cpp(82): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema3\fila_comlista\fila_comlista\origem.cpp(82): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema3\fila_comlista\fila_comlista\origem.cpp(106): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema3\fila_comlista\fila_comlista\origem.cpp(106): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+x:\escola superior politecnica\professores\viniciusborin\presencial\estrutura de dados\13 - algoritmos c\tema3\fila_comlista\fila_comlista\origem.cpp(153): warning C4477: 'scanf_s': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'int'
+  Fila_ComLista.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema3\Fila_ComLista\x64\Debug\Fila_ComLista.exe
+  Fila_ComLista.vcxproj -> X:\ESCOLA SUPERIOR POLITECNICA\PROFESSORES\ViniciusBorin\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema3\Fila_ComLista\x64\Debug\Fila_ComLista.pdb (Partial PDB)
