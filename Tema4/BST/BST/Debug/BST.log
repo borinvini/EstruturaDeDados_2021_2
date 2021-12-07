@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+C:\Users\viniw\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\BST\Origem.cpp(15,15): warning C4101: 'pos': variável local não referenciada
+C:\Users\viniw\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\BST\Origem.cpp(15,23): warning C4101: 'res': variável local não referenciada
+C:\Users\viniw\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\BST\Origem.cpp(123): warning C4715: 'Buscar': nem todos os caminhos de controle retornam um valor
+  BST.vcxproj -> C:\Users\viniw\Google Drive\TrabalhoDocencia\UNINTER\Pasta de Trabalho - BACKUP\Presencial\Estrutura de Dados\13 - Algoritmos C\Tema4\BST\Debug\BST.exe
